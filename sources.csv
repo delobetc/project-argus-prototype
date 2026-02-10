@@ -1,0 +1,30 @@
+Country,Source Name,RSS Feed URL
+Global,Reuters,http://feeds.reuters.com/reuters/topNews
+Global,Associated Press,https://apnews.com/hub/ap-top-news/rss
+United States,New York Times,https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+United States,Wall Street Journal,https://feeds.a.dj.com/rss/RSSWorldNews.xml
+United States,Associated Press (US),https://apnews.com/hub/us-news/rss
+United Kingdom,BBC News,http://feeds.bbci.co.uk/news/world/rss.xml
+United Kingdom,The Guardian,https://www.theguardian.com/world/rss
+United Kingdom,Sky News,http://feeds.skynews.com/feeds/rss/world.xml
+China,Xinhua Net,http://www.xinhuanet.com/english/rss/index.xml
+China,Global Times,https://www.globaltimes.cn/rss.xml
+Russia,TASS,https://tass.com/rss/v2.xml
+Russia,Sputnik News,https://sputnikglobe.com/export/rss2/archive/index.xml
+Russia,RT,https://www.rt.com/rss/
+Germany,Der Spiegel,https://www.spiegel.de/international/index.rss
+Germany,Deutsche Welle,https://rss.dw.com/rdf/rss-en-all
+France,France 24,https://www.france24.com/en/rss
+France,Le Monde,https://www.lemonde.fr/rss/en/une.xml
+Iran,Tehran Times,https://www.tehrantimes.com/rss
+Iran,Mehr News Agency,https://en.mehrnews.com/rss
+Qatar,Al Jazeera,https://www.aljazeera.com/xml/rss/all.xml
+Israel,Jerusalem Post,https://www.jpost.com/rss/rssall
+Israel,Haaretz,https://www.haaretz.com/cmlink/1.4983410
+India,Times of India,https://timesofindia.indiatimes.com/rssfeedstopstories.cms
+India,The Hindu,https://www.thehindu.com/news/international/feeder/default.aspx
+Japan,Kyodo News,https://english.kyodonews.net/rss/all.xml
+Japan,The Japan Times,https://www.japantimes.co.jp/feed/
+Brazil,Folha de S.Paulo,http://feeds.folha.uol.com.br/emcimadahora/rss091.xml
+South Korea,Yonhap News Agency,https://en.yna.co.kr/RSS/news.xml
+North Korea,KCNA,http://www.kcna.kp/kcna.user.rss.Article.php

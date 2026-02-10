@@ -1,0 +1,9 @@
+streamlit
+pandas
+feedparser
+requests
+beautifulsoup4
+nltk
+gensim
+spacy==3.7.2
+textblob
