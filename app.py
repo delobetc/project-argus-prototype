@@ -10,6 +10,7 @@ from nltk.corpus import stopwords
 from gensim import corpora, models
 from textblob import TextBlob
 import spacy
+import en_core_web_sm # <--- THIS IS THE FIRST CHANGE
 
 # --- Page Configuration ---
 st.set_page_config(
@@ -26,8 +27,8 @@ except LookupError:
     nltk.download('stopwords')
     nltk.download('punkt')
 
-# Load Spacy model
-nlp = spacy.load("en_core_web_sm")
+# Load Spacy model using the direct import method
+nlp = en_core_web_sm.load() # <--- THIS IS THE SECOND CHANGE
 
 # --- Caching ---
 # Cache data loading to avoid re-reading the file on every interaction
